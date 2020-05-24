@@ -1,5 +1,5 @@
 let accessToken;
-const clientId='37b23b2184b04c92afa0fb0e11399ef0';
+const clientId='';
 //const redirectUri='http://aaronjammming.surge.sh/';
 const redirectUri='http://localhost:3000/';
 
